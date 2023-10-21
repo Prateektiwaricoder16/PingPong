@@ -1,7 +1,7 @@
 1972 Pong
 ===========
 
-This is a small experiment to implement a version of the classic Pong game in an HTML <canvas>.
+This is a classic Pong game of 1972 <canvas>.
 
  * You can find the [game here](pingpong1972.netlify.app)
 
